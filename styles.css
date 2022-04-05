@@ -67,7 +67,7 @@ padding: 50px 0 20px;
   bottom: 250px;
 }
 .mountain {
-position:absolute;
+position:relative;
   top:5px;
 }
 .skill-row{
