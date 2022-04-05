@@ -66,6 +66,10 @@ padding: 50px 0 20px;
   left: 30px;
   bottom: 250px;
 }
+.mountain {
+position:relative;
+  top:5px;
+}
 .skill-row{
   text-align: left;
   width: 50%;
