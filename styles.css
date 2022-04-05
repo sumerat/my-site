@@ -1,5 +1,6 @@
 body {
   color: #40514E;
+  background-color: #E4F9F5;
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -49,7 +50,6 @@ padding-top: 100px;
   margin: auto;
 }
 .middle-container {
-  background-color: #E4F9F5;
 margin: 100px 0; /* top bottom, left right; */
 }
 .bottom-container {
