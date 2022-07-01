@@ -1,6 +1,8 @@
 # 🐼 My-site
 
-just some introduction of myself 
+This is my first attempt in creating a personal portfolio website.
+
+I really wanted to use this experience to apply the skills I had learnt up till this point - mainly through the usage of HTML and CSS
 
 ## Deployment
 
