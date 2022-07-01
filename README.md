@@ -6,7 +6,7 @@ just some introduction of myself
 
 Deployed Website: https://sumerat.github.io/my-site/
 
-![my-site](./images/screencapture-sumerat-github-io-my-site-2022-07-02-02_54_44.png)
+![my-site](./screencapture-sumerat-github-io-my-site-2022-07-02-02_54_44.png)
 
 ## Built With
 
